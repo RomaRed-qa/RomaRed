@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я ручной тестировщик. Люблю кино, игры, прогулки и фотографию)
+Я ручной тестировщик. Живу в Санкт-Петербурге. Люблю кино, игры, прогулки и фотографию)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -38,6 +38,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
