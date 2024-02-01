@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="images/logo/Postman.svg" width="40" height="40" title="Postman"/>&nbsp
   <img src="images/logo/Telegram.svg" width="40" height="40"  alt="olgakos" title="Telegram Bot"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp
 </div>
 
 ---
