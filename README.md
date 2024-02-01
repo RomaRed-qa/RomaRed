@@ -43,6 +43,8 @@
   <img src="images/logo/Postman.svg" width="40" height="40" title="Postman"/>&nbsp
   <img src="images/logo/Telegram.svg" width="40" height="40"  alt="olgakos" title="Telegram Bot"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles" alt=charles" width="40" height="40"/>&nbsp
 </div>
 
 ---
