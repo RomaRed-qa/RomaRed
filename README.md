@@ -1,13 +1,17 @@
 
-# Hi there, I'm Roma 
+# Hi there, I'm Roma 🖖
 
 ---
 
 ### :man_technologist: Обо мне:
 
-Я ручной тестировщик. Живу в Санкт-Петербурге. Люблю кино, игры, музыку, прогулки и творчество.
+Qa-engineer. Люблю кино, игры, музыку, прогулки и творчество.
 
 📸 Фотографирую людей. Дорого)
+
+* 🌍  I'm based in Saint-Petersburg
+* ✉️  You can contact me at [redchenko.roma@gmail.com](mailto:redchenko.roma@gmail.com)
+* 🚀  I'm currently working on [MyApp](http://red-photo.ru/)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
