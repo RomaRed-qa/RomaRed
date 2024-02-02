@@ -35,7 +35,7 @@ Qa-engineer. Люблю кино, игры, музыку, прогулки и т
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
      <a href="https://www.instagram.com/roma.redchenko?igsh=ZTZhamQwN3ZoMjR2" target="_blank">
-     <img src="https://w7.pngwing.com/pngs/866/916/png-transparent-logo-computer-icons-instagram-instagram-application-logo-text-trademark-magenta.png" height="40" alt="VK Badge"/>
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40" alt="VK Badge"/>
     </a>
     </div>
 
